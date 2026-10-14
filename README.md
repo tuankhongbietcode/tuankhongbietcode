@@ -7,6 +7,9 @@ offensive security — which means I read an attack path from both sides.
 Working through the HTB Certified Penetration Testing Specialist (CPTS) track, and
 building case files from authorised lab and internship work.
 
+**[Portfolio →](https://tuankhongbietcode.github.io/cyber-portfolio/)** — case files,
+lab builds and home lab operations.
+
 ---
 
 **Things I have actually done**
